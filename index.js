@@ -72,7 +72,7 @@ async function run() {
           name: data.name,
           brand: data.brand,
           price: data.price,
-          select: data.select,
+          type: data.type,
           description: data.description,
           rating: data.rating,
           photo: data.photo,
